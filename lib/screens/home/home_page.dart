@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 
 // TODO: ใส่รหัสนักศึกษาที่ค่าสตริงนี้
-const studentId = 'Student ID';
+const studentId = '630710397';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -53,7 +53,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   _buildQuizView() {
-    // TODO: build UI
+
     return Center(child: Text('TODO: build UI'));
   }
 
